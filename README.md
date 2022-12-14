@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @jaomateus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## João Mateus
 
-<!---
-jaomateus/jaomateus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Junior Fullstack Web Developer
+
+I just finished a web development intensive course at Le Wagon, the world’s top rated bootcamp.  The experience turned out far above my expectations and made me determined to **switch to a career in web development.**
+Even though I come from a creative background,  I was always very interested on exploring how technologies complement the creative process in order to achieve a better design and functional solution. 
+I am curious about the metaverse and how web development and 3d Visualization will come together in the near future to shape our daily lives.
+
+I'm currently learning Javascript and React.
+
+How to reach me ...
+
+      [Linkedin](https://www.linkedin.com/in/jaomateus/)
+
+     
+
