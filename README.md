@@ -2,9 +2,8 @@
 
 ### Junior Fullstack Web Developer
 
-I just finished a web development intensive course at Le Wagon, the world’s top rated bootcamp.  The experience turned out far above my expectations and made me determined to **switch to a career in web development.**
-Even though I come from a creative background,  I was always very interested on exploring how technologies complement the creative process in order to achieve a better design and functional solution. 
-I am curious about the metaverse and how web development and 3d Visualization will come together in the near future to shape our daily lives.
+Hi there! I'm a recent graduate of Le Wagon, where I completed a full-stack web development course. Prior to this, I worked as a landscape architect and ran my own beach cafe, which focused on mostly organic, locally sourced and sustainable goods.
+In my previous work as a landscape architect, I learned the importance of creating functional and aesthetically pleasing spaces. Now, as a web developer, I'm excited to bring those same principles to the digital realm and create solutions that are both visually appealing and user-friendly. I'm always looking for opportunities to learn and grow as a developer, and I'm eager to apply my skills and expertise to new challenges.
 
 I'm currently learning Javascript and React.
 
