@@ -1,15 +1,71 @@
 ## João Mateus
 
-### Junior Fullstack Web Developer
+### Fullstack Web Developer
 
 Hi there! I'm a recent graduate of Le Wagon, where I completed a full-stack web development course. Prior to this, I worked as a landscape architect and ran my own beach cafe, which focused on mostly organic, locally sourced and sustainable goods.
 In my previous work as a landscape architect, I learned the importance of creating functional and aesthetically pleasing spaces. Now, as a web developer, I'm excited to bring those same principles to the digital realm and create solutions that are both visually appealing and user-friendly. I'm always looking for opportunities to learn and grow as a developer, and I'm eager to apply my skills and expertise to new challenges.
 
-I'm currently learning Javascript and React.
+In my free time I plant trees! I have my own forest garden and I like to learn about regenerative agriculture practices and soil regeneration principles. During the last two years I planted around two hundred trees and I am planning to grow this number in the next comming years.
 
-How to reach me ...
 
-      [Linkedin](https://www.linkedin.com/in/jaomateus/)
+- I’m currently learning **Javascript and React** and I am following a course in UX/UI and accessibility design.
 
-     
+- How to reach me **jaomateus@gmail.com**
+
+
+<h4 align="left">Recent projects:</h4>
+<!--       RYB -->
+      <a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211086417-e7d3892a-6811-4be8-9da9-514a98baab14.svg" alt="ruby" width="70" height="70"/> </a> 
+<!--       Floaty -->
+      <a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211086417-e7d3892a-6811-4be8-9da9-514a98baab14.svg" alt="ruby" width="100" height="100"/> </a> 
+      
+---
+**RYB - Rewild Your Backyard** -  Le Wagon final project.
+
+RYB helps you choose the right plants for your garden, based on your location, soil and climate variables. Works also as a diary to keep track of your garden daily activities  
+
+---
+**Floaty** -  Le Wagon AirBnB clone project.
+
+RYB helps you choose the right plants for your garden, based on your location, soil and climate variables. Works also as a diary to keep track of your garden daily activities  
+
+---
+
+<br />
+<h4 align="left">Languages and Tools:</h4>
+
+<p align="left">      
+<!--       Ruby -->
+      <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
+<!--       Rails -->
+      <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+<!--       Html -->
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<!--       Css -->
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<!--       Javascript -->
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<!--       Bootstrap -->
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+&nbsp;&nbsp;
+&nbsp;&nbsp; 
+<!--       Figma -->
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<!--       Photoshop -->
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<!--       Illustrator -->
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+<!--       Git -->
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+&nbsp;&nbsp;
+&nbsp;&nbsp; 
+<!--       Heroku -->
+      <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
+&nbsp;&nbsp;
+&nbsp;&nbsp; 
+<!--       Postgresql -->
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+</p>
 
