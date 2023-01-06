@@ -11,14 +11,12 @@ In my free time I plant trees! I have my own forest garden and I like to learn a
 - I’m currently learning **Javascript and React** and I am following a course in UX/UI and accessibility design.
 
 - How to reach me **jaomateus@gmail.com**
-<br/>
-<br/>
-
 <h4 align="left">Recent projects:</h4>
-<!--       RYB -->
+
+<p align="center">
 <a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211112007-fc9fba7d-b0b0-4c0b-8835-6cd04a5b7b87.svg" alt="RYB" width="400""/> </a> 
 <a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211112695-acf7c9b0-b095-4838-8a17-a40f7bd680d7.svg" alt="Floaty" width="400""/> </a> 
-
+</p>
       
 
 <h4 align="left">Languages and Tools:</h4>
