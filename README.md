@@ -3,9 +3,10 @@
 ### Fullstack Web Developer
 
 Hi there! I'm a recent graduate of Le Wagon, where I completed a full-stack web development course. Prior to this, I worked as a landscape architect and ran my own beach cafe, which focused on mostly organic, locally sourced and sustainable goods.
-In my previous work as a landscape architect, I learned the importance of creating functional and aesthetically pleasing spaces. Now, as a web developer, I'm excited to bring those same principles to the digital realm and create solutions that are both visually appealing and user-friendly. I'm always looking for opportunities to learn and grow as a developer, and I'm eager to apply my skills and expertise to new challenges.
+In my previous work as a landscape architect, I learned the importance of creating functional and aesthetically pleasing spaces. Now, as a web developer, I'm excited to bring those same principles to the digital realm and create functional, visually appealing and user-friendly products. I'm always looking for opportunities to learn and grow as a developer, and I'm eager to apply my skills and expertise to new challenges.
 
 In my free time I plant trees! I have my own forest garden and I like to learn about regenerative agriculture practices and soil regeneration principles. During the last two years I planted around two hundred trees and I am planning to grow this number in the next comming years.
+
 
 
 - I’m currently learning **Javascript and React** and I am following a course in UX/UI and accessibility design.
