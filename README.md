@@ -11,27 +11,14 @@ In my free time I plant trees! I have my own forest garden and I like to learn a
 - I’m currently learning **Javascript and React** and I am following a course in UX/UI and accessibility design.
 
 - How to reach me **jaomateus@gmail.com**
-
+<br/>
+<br/>
 
 <h4 align="left">Recent projects:</h4>
 <!--       RYB -->
-      <a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211086417-e7d3892a-6811-4be8-9da9-514a98baab14.svg" alt="ruby" width="70" height="70"/> </a> 
-<!--       Floaty -->
-      <a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211086417-e7d3892a-6811-4be8-9da9-514a98baab14.svg" alt="ruby" width="100" height="100"/> </a> 
-      
----
-**RYB - Rewild Your Backyard** -  Le Wagon final project.
+<a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211110429-4793f1de-2709-4f91-8dcb-71175055811e.svg" alt="RYB" width="500""/> </a> 
 
-RYB helps you choose the right plants for your garden, based on your location, soil and climate variables. Works also as a diary to keep track of your garden daily activities  
 
----
-**Floaty** -  Le Wagon AirBnB clone project.
-
-RYB helps you choose the right plants for your garden, based on your location, soil and climate variables. Works also as a diary to keep track of your garden daily activities  
-
----
-
-<br />
 <h4 align="left">Languages and Tools:</h4>
 
 <p align="left">      
@@ -68,4 +55,3 @@ RYB helps you choose the right plants for your garden, based on your location, s
 <!--       Postgresql -->
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
-
