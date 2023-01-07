@@ -1,19 +1,17 @@
-## João Mateus
+## João Mateus  
+### Full-stack Web Developer 
+<br/>
+Recently I graduated at Le Wagon, where I completed a full-stack web development course. Prior to this, I worked as a landscape architect and ran my own beach bistro, focusing mostly on organic, locally sourced and seasonal food.
 
-### Fullstack Web Developer
+In my previous work as a landscape architect, I designed functional and aesthetically pleasing spaces. Now, as a web developer, I'm excited to bring those same qualities to the digital realm and create efficient, intuitive and visually appealing products. Being an entrepreneur brought my persistence, adaptability, leadership and communication skills to a next level, which are of value for any company.
 
-Recentely I graduated at Le Wagon, where I completed a full-stack web development course. Prior to this, I worked as a landscape architect and ran my own beach bistro, focusing mostly on organic, locally sourced and seasonal food.
-
-In my previous work as a landscape architect, I designed functional and aesthetical spaces. Now, as a web developer, I'm excited to bring those same qualities to the digital realm and create efficient, intuitive and visually appealing products. Being an enterpreneur brought my persistence, adaptability, leadership and communication skills to a next level, which are of value for any company.
-
-In my free time, I enjoy growing my own food forest, regenerating family land that has been intensively used for conventional agriculture. 
-
-
-I am looking for an entry level job as a full-stack web developer.
-
-If you want to know more about me, don't hesitate to send me an email at **jaomateus@gmail.com** or have a look at my <a href="https://www.linkedin.com/in/jaomateus/"> **LinkedIn**</a>.
+In my free time, I enjoy growing my own food forest, regenerating family land that has been intensively used for conventional agriculture.
 
 
+If you want to know more about me, don't hesitate to send me an email at **jaomateus@gmail.com** or have a look at my <a href="https://www.linkedin.com/in/jaomateus/"> **LinkedIn**</a> profile.
+
+
+</br>
 <h4 align="left">Recent projects:</h4>
 
 <p align="center">
@@ -21,7 +19,7 @@ If you want to know more about me, don't hesitate to send me an email at **jaoma
 <a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211112695-acf7c9b0-b095-4838-8a17-a40f7bd680d7.svg" alt="Floaty" width="400""/> </a> 
 </p>
       
-
+<br/>
 <h4 align="left">Languages and Tools:</h4>
 
 <p align="left">      
@@ -64,4 +62,5 @@ If you want to know more about me, don't hesitate to send me an email at **jaoma
 - Deepening my knowledge of **Javascript**  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 - Making my first steps in **React**  <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211168602-3824ae81-2905-40e0-bc2e-6b0a1ff33c2f.svg" alt="React" width="40" height="40"/> </a>
 - Following a course in **UX/UI** and **accessibility design**.
+
 
