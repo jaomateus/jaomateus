@@ -8,9 +8,12 @@ In my previous work as a landscape architect, I designed functional and aestheti
 
 In my free time, I enjoy growing my own food forest, regenerating family land that has been intensively used for conventional agriculture. 
 
-Currently I am learning **Javascript,  React** and following a course in **UX/UI** and **accessibility design**.
 
-- How to reach me **jaomateus@gmail.com**
+I am looking for an entry level job as a full-stack web developer.
+
+If you want to know more about me, don't hesitate to send me an email at **jaomateus@gmail.com** or have a look at my <a href="https://www.linkedin.com/in/jaomateus/"> **LinkedIn**</a>.
+
+
 <h4 align="left">Recent projects:</h4>
 
 <p align="center">
@@ -55,3 +58,10 @@ Currently I am learning **Javascript,  React** and following a course in **UX/UI
 <!--       Postgresql -->
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
+<br/>
+<h4 align="left">Learning in progress:</h4>
+
+- Deepening my knowledge of **Javascript**  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+- Making my first steps in **React**  <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211168602-3824ae81-2905-40e0-bc2e-6b0a1ff33c2f.svg" alt="React" width="40" height="40"/> </a>
+- Following a course in **UX/UI** and **accessibility design**.
+
