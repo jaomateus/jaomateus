@@ -2,14 +2,13 @@
 
 ### Fullstack Web Developer
 
-Hi there! I'm a recent graduate of Le Wagon, where I completed a full-stack web development course. Prior to this, I worked as a landscape architect and ran my own beach cafe, which focused on mostly organic, locally sourced and sustainable goods.
-In my previous work as a landscape architect, I learned the importance of creating functional and aesthetically pleasing spaces. Now, as a web developer, I'm excited to bring those same principles to the digital realm and create functional, visually appealing and user-friendly products. I'm always looking for opportunities to learn and grow as a developer, and I'm eager to apply my skills and expertise to new challenges.
+Recentely I graduated at Le Wagon, where I completed a full-stack web development course. Prior to this, I worked as a landscape architect and ran my own beach bistro, focusing mostly on organic, locally sourced and seasonal food.
 
-In my free time I plant trees! I have my own forest garden and I like to learn about regenerative agriculture practices and soil regeneration principles. During the last two years I planted around two hundred trees and I am planning to grow this number in the next comming years.
+In my previous work as a landscape architect, I designed functional and aesthetical spaces. Now, as a web developer, I'm excited to bring those same qualities to the digital realm and create efficient, intuitive and visually appealing products. Being an enterpreneur brought my persistence, adaptability, leadership and communication skills to a next level, which are of value for any company.
 
+In my free time, I enjoy growing my own food forest, regenerating family land that has been intensively used for conventional agriculture. 
 
-
-- I’m currently learning **Javascript and React** and I am following a course in UX/UI and accessibility design.
+Currently I am learning **Javascript,  React** and following a course in **UX/UI** and **accessibility design**.
 
 - How to reach me **jaomateus@gmail.com**
 <h4 align="left">Recent projects:</h4>
