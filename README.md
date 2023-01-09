@@ -7,14 +7,14 @@ In my previous work as a landscape architect, I designed functional and aestheti
 
 In my free time, I enjoy growing my own food forest, regenerating family land that has been intensively used for conventional agriculture.
 
-![logo-linkedin]()
-![mail-outline]()
-
-<h4 align="left">Contacts:</h4>
+<h4 align="left">Contact me:</h4>
 <!--       Email -->
-<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211318094-94ac57e9-abba-4977-9a13-b4ebdbe02ec7.svg" alt="Email" width="40""/> </a> 
+<div><a href="mailto:jaomateus@gmail.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211318094-94ac57e9-abba-4977-9a13-b4ebdbe02ec7.svg" alt="Email" width="40""/> </a> 
+</div>
+<div>
 <!--       Linkedin -->
 <a href="https://www.linkedin.com/in/jaomateus/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211319532-c109d046-b186-4692-a755-dda8ad6e2b13.svg" alt="Linkedin" width="40""/> </a> 
+</div>
 
 </br>
 <h4 align="left">Recent projects:</h4>
