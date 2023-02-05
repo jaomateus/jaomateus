@@ -1,7 +1,7 @@
 ## João Mateus  
 ### Full-stack Web Developer 
 <br/>
-Recently I graduated at Le Wagon, where I completed a full-stack web development course. Prior to this, I worked as a landscape architect and ran my own beach bistro, focusing mostly on organic, locally sourced and seasonal food.
+Recently I graduated at Le Wagon, where I completed a full-stack web development bootcamp. Prior to this, I worked as a landscape architect and ran my own beach bistro, focusing mostly on organic, locally sourced and seasonal food.
 
 In my previous work as a landscape architect, I designed functional and aesthetically pleasing spaces. Now, as a web developer, I'm excited to bring those same qualities to the digital realm and create efficient, intuitive and visually appealing products. Being an entrepreneur brought my persistence, adaptability, leadership and communication skills to a next level, which are of value for any company.
 
