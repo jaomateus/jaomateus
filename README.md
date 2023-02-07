@@ -20,6 +20,10 @@ In my free time, I enjoy growing my own food forest, regenerating family land th
 <h4 align="left">Recent projects:</h4>
 
 <p align="center">
+<a href="http://miguelgranja.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/217119736-15ac0604-4f9c-4c4e-ad23-8602ebc08a78.svg" alt="Floaty" width="400""/> </a> 
+</p>
+
+<p align="center">
 <a href="https://floataround.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211112695-acf7c9b0-b095-4838-8a17-a40f7bd680d7.svg" alt="Floaty" width="400""/> </a> 
 <a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211112007-fc9fba7d-b0b0-4c0b-8835-6cd04a5b7b87.svg" alt="RYB" width="400""/> </a> 
 </p>
