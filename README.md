@@ -69,7 +69,7 @@ In my free time, I enjoy growing my own food forest, regenerating family land th
 <h4 align="left">Learning in progress:</h4>
 
 - Deepening my knowledge of **Javascript**  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-- Giving my first steps in **React**  <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211168602-3824ae81-2905-40e0-bc2e-6b0a1ff33c2f.svg" alt="React" width="40" height="40"/> </a>
+- Giving my first steps in **React** and **Redux** <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/75801139/211168602-3824ae81-2905-40e0-bc2e-6b0a1ff33c2f.svg" alt="React" width="40" height="40"/> </a>
 - Following a course in **UX/UI** and **accessibility design**.
 
 
